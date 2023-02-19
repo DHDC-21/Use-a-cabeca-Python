@@ -24,3 +24,5 @@ for i in range(5):
     else:
         print("Not an odd minute.")
     
+
+print("fim do loop")
